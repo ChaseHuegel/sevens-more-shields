@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "isi",
+    "iti",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "t": {
+      "item": "minecraft:terracotta"
+    },
+    "s": {
+      "item": "minecraft:shield"
+    }
+  },
+  "result": {
+    "item": "sevensmoreshields:upgrade_template",
+    "count": 1
+  }
+}
