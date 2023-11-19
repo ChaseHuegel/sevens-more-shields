@@ -1,0 +1,13 @@
+{
+    "itemGroup.sevensmoreshields": "Seven's More Shields",
+    "item.sevensmoreshields.golden_shield": "Gilded Shield",
+    "item.sevensmoreshields.turtle_shield": "Turtle Shield",
+    "item.sevensmoreshields.netherite_shield": "Netherite Shield",
+    "item.sevensmoreshields.amethyst_shield": "Amethyst Shield",
+    "item.sevensmoreshields.upgrade_template": "Shield Upgrade Template",
+    "item.sevensmoreshields.upgrade_template.upgrade.applies_to": "Shields",
+    "item.sevensmoreshields.upgrade_template.upgrade.ingredients": "Ingots, Crystals, & Mob parts",
+    "upgrade.sevensmoreshields.upgrade_template.upgrade": "Shield Upgrade",
+    "item.sevensmoreshields.upgrade_template.upgrade.base_slot_description": "Add a shield",
+    "item.sevensmoreshields.upgrade_template.upgrade.additions_slot_description": "Add ingot, crystal, or mob part"
+}

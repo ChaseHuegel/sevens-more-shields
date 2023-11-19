@@ -1,0 +1,16 @@
+{
+    "parent": "sevensmoreshields:item/amethyst_shield",
+    "gui_light": "front",
+    "textures": {
+		"0": "sevensmoreshields:item/turtle_shield",
+		"particle": "sevensmoreshields:item/turtle_shield"
+	},
+	"overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "sevensmoreshields:item/turtle_shield_blocking"
+        }
+    ]
+}

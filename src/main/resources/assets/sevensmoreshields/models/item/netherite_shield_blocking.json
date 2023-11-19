@@ -1,0 +1,7 @@
+{
+	"parent": "sevensmoreshields:item/golden_shield_blocking",
+	"textures": {
+		"0": "sevensmoreshields:item/netherite_shield",
+		"particle": "sevensmoreshields:item/netherite_shield"
+	}
+}

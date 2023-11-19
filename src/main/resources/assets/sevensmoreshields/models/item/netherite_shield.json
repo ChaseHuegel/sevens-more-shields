@@ -1,0 +1,15 @@
+{
+	"parent": "sevensmoreshields:item/golden_shield",
+	"textures": {
+		"0": "sevensmoreshields:item/netherite_shield",
+		"particle": "sevensmoreshields:item/netherite_shield"
+	},
+	"overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "sevensmoreshields:item/netherite_shield_blocking"
+        }
+    ]
+}

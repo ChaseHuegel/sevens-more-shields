@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "sevensmoreshields:item/amethyst_shield",
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [44.86, -42.88, 6.06],
+			"translation": [4, -1.75, -0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [44.86, -42.88, 6.06],
+			"translation": [4, -1.75, -0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [2, 1, 12],
+			"translation": [-4.25, -3, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [2, 1, 12],
+			"translation": [-4.25, -3, 0]
+		},
+		"ground": {
+			"rotation": [27, 0, 0],
+			"translation": [0, 4.25, 0]
+		},
+		"gui": {
+			"rotation": [174.27, 35.96, -172.83],
+			"translation": [-0.75, -0.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"fixed": {
+			"translation": [0, 0, -1.25],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 11, 5.4],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "group",
+			"origin": [8, 11, 5.4],
+			"color": 0,
+			"children": []
+		}
+	]
+}
